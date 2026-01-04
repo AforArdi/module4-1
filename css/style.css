@@ -1,0 +1,46 @@
+/* elements */
+body{
+    background-color:antiquewhite
+}
+nav li a {
+    text-decoration: none;
+}
+nav li {
+    display: inline;
+    margin-right: 10px;
+}
+nav li a:hover{
+    background-color:aqua
+}
+form{
+    margin-bottom: 30px;
+}
+form label{
+    display: block;
+    margin-top: 10px;
+}
+
+/* ids */
+#main-image{
+    width: 100%;
+}
+#details {
+    margin-top: 20px;
+}
+
+/* classes */
+.main-image-caption{
+    text-align: center;
+    color: blue;
+    font-size: 1.5rem;
+}
+.center{
+    text-align: center;
+}
+.blue-text{
+    color: blue;
+}
+.center-blue{
+        text-align: center;
+    color: blue;
+}
